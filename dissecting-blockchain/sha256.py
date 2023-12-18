@@ -1,6 +1,6 @@
 from hashlib import sha256
 
-data = "<data here>"
+data = "<“COMP1830-Blockchain for Fintech">"
 
 h = sha256()
 h.update(data.encode())
